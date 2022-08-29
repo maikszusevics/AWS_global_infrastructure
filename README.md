@@ -15,16 +15,16 @@ To enhance availability and reduce the risk of two data centers experiencing an 
 ## Four pillars of Cloud Computing
 
 ### Ease of use
-
+AWS cloud has extensive official documentation for how to use it and most of it is at a very high level of abstraction, which makes it highly accessible and ensures ease of use 
 
 ### Robustness
-
+AWS cloud offers many ways of increasing the robustness of your systems, including auto scaling groups, redundancy, constant monitoring and alert management, and backups
 
 ### Flexibility
-
+Cloud services allow for fast dynamic changes to deployment of systems and software. It also allows for the services to accessed in a variety of ways (eg. from terminal or web browser)
 
 ### Cost
-
+The cost effectiveness of cloud services cannot be understated as you pay only for what you use, and can set up systems to scale down when not being used.
 
 
 
